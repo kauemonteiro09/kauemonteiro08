@@ -1,12 +1,13 @@
-<b> Boas vindas ao meu perfil ❤️ <b>
+### Boas vindas ao meu perfil :blue_heart
 
-Meu nome não é Alura, meu nome é Kauê Monteiro
+Meu nome é Raimundo Kauê
 
-• Estou estudando na Alura <p>
-• Estou me desenvolvendo na lignuagem de javascript <p>
-• Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos <p>
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-<b> Você pode entrar em contato comigo <b> 🌍
-kauemonteiro2008@hotmail.com
-@alura
+### Você pode entrar em contato comigo :mailbox 
+
+kauemonteiro09@gmail.com
+@kauemonteiro
 
