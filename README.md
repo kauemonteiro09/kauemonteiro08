@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil :blue_heart:
 
 Meu nome é Raimundo Kauê
 
@@ -6,7 +6,7 @@ Meu nome é Raimundo Kauê
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox 
+### Você pode entrar em contato comigo :mailbox:
 
 kauemonteiro09@gmail.com
 @kauemonteiro
